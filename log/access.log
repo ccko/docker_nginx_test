@@ -1,0 +1,6 @@
+172.20.0.1 - - [14/Mar/2018:07:12:09 +0000] "GET / HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
+172.20.0.1 - - [14/Mar/2018:07:12:10 +0000] "GET /favicon.ico HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
+172.20.0.1 - - [14/Mar/2018:07:58:18 +0000] "GET / HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
+172.20.0.1 - - [14/Mar/2018:07:58:23 +0000] "GET /polls HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
+172.20.0.1 - - [14/Mar/2018:07:58:30 +0000] "GET /polls HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
+172.20.0.1 - - [14/Mar/2018:07:58:49 +0000] "GET /polls HTTP/1.1" 502 173 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0" "-"
